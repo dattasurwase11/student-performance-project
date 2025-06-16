@@ -1,1 +1,3 @@
-# Student Performance Prediction using Linear Regression
+# Student Performance Prediction using a Linear Regression Model with Amazon SageMaker
+
+
